@@ -1,0 +1,6 @@
+{
+  "name": "Shadow Forest: Roblox Horror Survival",
+  "description": "Атмосферный 3D хоррор в стиле Roblox: процедурный лес, ночные твари, главный монстр, скримеры, крафт, прокачка и готовые Lua/Python скрипты для Roblox Studio.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
